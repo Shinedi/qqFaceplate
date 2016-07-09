@@ -1,0 +1,37 @@
+#qq{
+		width:300px;
+		height:700px;
+		border:1px solid #000;
+		margin:auto;
+		float:right;}
+	
+	#image{
+		width:50px;
+		height:50px;
+		margin-left:2px;
+		border:1px solid #000;}
+	
+	#main{
+		width:280px;
+		height:640px;
+		margin-top:7px;
+		margin-left:10px;
+		border:1px solid #033;}
+		
+	#left{
+		width:200px;
+		height:100px;
+		display:none;
+		border:1px solid #336;
+		margin-right:10px;
+		float:right;}
+	#main ul{
+		display:none;}	
+		
+	#main ol{
+		display:block;}
+		
+	#main input{
+		width:270px;
+		text-align:left;
+		opacity:0.1;}
